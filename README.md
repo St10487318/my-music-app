@@ -1,1 +1,1 @@
-# my-music-app
+# my-music-app . the app was supposed to give the user a chance to add their own playlists and comment on the song as well as rating . as you open the app you will come across the interface and the first screen of the app wherre you will find trhee buttons one is fro completely exiting the app , the second is to give user the chance to input their prefered playl;ist amd the las is to move to the detailed screen
